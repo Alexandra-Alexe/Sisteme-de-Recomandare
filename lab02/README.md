@@ -5,6 +5,7 @@ Acest proiect utilizează un dataset din domeniul cinematografic preluat de pe K
 
 ## 2. Volumul Datelor
 - **Număr de înregistrări:** ~3,971 de filme (se încadrează în intervalul cerut de 100 - 10,000 de intrări).
+- **Link Kaggle:** https://www.kaggle.com/code/yousefsaeedian/movies-dataset-visualization/notebook
 
 ## 3. Proprietățile definite în Recombee
 Conform schemei din scriptul Python, au fost configurate următoarele 5 proprietăți în Recombee:
