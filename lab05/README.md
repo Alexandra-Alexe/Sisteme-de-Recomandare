@@ -30,7 +30,9 @@ Matricea de similaritate este salvată în fișierul `similarity_matrix.csv`.
 ## 4. Exemplu de produse similare
 
 Produs 1: Tesco Age 40 Balloons 6 Pack
+
 Produs 2: Tesco Age 30 Balloons 6 Pack
+
 Cosine Similarity: 1.0000
 
 Cele două produse sunt seturi de câte șase baloane aniversare, având aceleași dimensiuni, caracteristici și instrucțiuni de siguranță. Principala diferență este vârsta imprimată pe baloane.
